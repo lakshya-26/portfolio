@@ -413,6 +413,16 @@ h2 strong {
     height: 250px;
 }
 
+.portfolio-item.technical img{
+    border-radius: 5px;
+    height: 350px;
+}
+
+.portfolio-item.non-technical img{
+    border-radius: 5px;
+    height: 250px;
+}
+
 /*========= Portfolio Gallery =========*/
 
 
